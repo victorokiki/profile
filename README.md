@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Okikioluwa Victor</h1>
 <h3 align="center">Devops | UIUX | Frontend Developer</h3>
 <img  align="right" alt="code" width="300" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=1800&t=st=1688092005~exp=1688092605~hmac=23d79f122b1e556a080e94c8e4cebd48e1a0845b62254eee24dedfb889c50c94">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fesac-v&label=Profile%20views&color=0e75b6&style=flat" alt="fesac-v" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=victorokiki&label=Profile%20views&color=0e75b6&style=flat" alt="victorokiki" /> </p>
 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fesac-v" alt="fesac-v" /></a> </p>
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **victorokiki81@gmail.com**
 
-- 📄 Know about my experiences [https://okikiportfolio.netlify.app/Resume](https://okikiportfolio.netlify.app/Resume)
+- 📄 Know about my experiences [https://builtbyvic.com/#resume](https://builtbyvic.com/#resume)
 
 - ⚡ Fun fact **i love to play PUBG [@fesac10] and also a Game Tester**
 
